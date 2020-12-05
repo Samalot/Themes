@@ -8,7 +8,17 @@
     "Amex Cards": "12/04/2020",
     "Kitkat flavours": "19/04/2020",
     "Muppets": "27/04/2020",
-    "Small Cats": "04/05/2020",
+		"Small Cats": "04/05/2020",
+		"Fiction Writers Ewan Likes": "10/05/2020",
+		"Irrational Numbers": "18/05/2020",
+		"Military Rankings": "25/05/2020",
+		"Answers From Our Jackbox Games": "31/05/2020",
+		"Pizza": "26/07/2020",
+		"Reddit": "03/08/2020",
+		"Letters": "10/08/2020",
+		"Pokemon": "09/09/2020",
+		"Parks and Rec": "18/11/2020",
+		"Demons & Angels": "29/11/2020"
   },
 
   "culled": [
@@ -40,6 +50,10 @@
     "Fabrics",
     "Legally Blonde",
     "Themes",
-    "Talisman",
+		"Talisman",
+		"Numbers",
+		"Greek Letters",
+		"Unicode Characters",
+		"Japanese Characters"
   ],
 }
